@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'SuperRoundedIcons';
+  src:  url('fonts/SuperRoundedIcons.eot?198lcr');
+  src:  url('fonts/SuperRoundedIcons.eot?198lcr#iefix') format('embedded-opentype'),
+    url('fonts/SuperRoundedIcons.ttf?198lcr') format('truetype'),
+    url('fonts/SuperRoundedIcons.woff?198lcr') format('woff'),
+    url('fonts/SuperRoundedIcons.svg?198lcr#SuperRoundedIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="sri-"], [class*=" sri-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'SuperRoundedIcons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sri-send:before {
+  content: "\e901";
+}
+.sri-battery:before {
+  content: "\e902";
+}
+.sri-bellnotification:before {
+  content: "\e903";
+}
+.sri-camera:before {
+  content: "\e904";
+}
+.sri-chatbubble:before {
+  content: "\e905";
+}
+.sri-check:before {
+  content: "\e906";
+}
+.sri-cloud:before {
+  content: "\e907";
+}
+.sri-download:before {
+  content: "\e908";
+}
+.sri-editpencil:before {
+  content: "\e909";
+}
+.sri-folder:before {
+  content: "\e90a";
+}
+.sri-globeinternet:before {
+  content: "\e90b";
+}
+.sri-heartfavorite:before {
+  content: "\e90c";
+}
+.sri-home:before {
+  content: "\e90d";
+}
+.sri-lock:before {
+  content: "\e90e";
+}
+.sri-mail:before {
+  content: "\e90f";
+}
+.sri-minus:before {
+  content: "\e900";
+}
+.sri-music:before {
+  content: "\e910";
+}
+.sri-play:before {
+  content: "\e911";
+}
+.sri-plus:before {
+  content: "\e912";
+}
+.sri-search:before {
+  content: "\e913";
+}
+.sri-settingsgear:before {
+  content: "\e914";
+}
+.sri-share:before {
+  content: "\e915";
+}
+.sri-starbookmark:before {
+  content: "\e916";
+}
+.sri-timesclose:before {
+  content: "\e917";
+}
+.sri-trash:before {
+  content: "\e918";
+}
+.sri-unlock:before {
+  content: "\e919";
+}
+.sri-upload:before {
+  content: "\e91a";
+}
+.sri-userprofile:before {
+  content: "\e91b";
+}
+.sri-video:before {
+  content: "\e91c";
+}
+.sri-wifi:before {
+  content: "\e91d";
+}
